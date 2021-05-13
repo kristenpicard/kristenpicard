@@ -1,7 +1,5 @@
 ### Hi, my name is Kristen! 👋
 
-<!--
-**kristenpicard/kristenpicard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 📝 I'm continually sharpening my skills as a full-stack developer. 
 - 📚 I’m currently completing The Ohio State University Full-Stack Development Bootcamp.
@@ -12,4 +10,4 @@
 - 👀 Fun fact: I have one blue eye and one green eye.
 - ✨ Stay awhile and check out what I've been working on.
 
--->
+
