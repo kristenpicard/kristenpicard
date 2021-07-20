@@ -2,7 +2,7 @@
 
 
 - 📝 I'm continually sharpening my skills as a full-stack developer. 
-- 📚 I’m completing The Ohio State University Full-Stack Development Bootcamp.
+- 📚 I’ve completed The Ohio State University Full-Stack Development Bootcamp.
 - 🔦 I’m seeking out opportunities to contribute to open-source projects.
 - 🎓 I've completed my Bachelor's of Science in Sociology.
 - 📫 I can be reached at kristenpicard93@gmail.com
